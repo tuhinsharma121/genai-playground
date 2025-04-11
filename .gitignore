@@ -1,3 +1,9 @@
 .DS_Store
 *.ipynb_checkpoints*
 *.virtual_documents*
+slate-30m-english-rtrvr
+*checkpoints*
+fine-tuned-slate-30m-english-rtrvr*
+fine-tuned-mxbai-embed-xsmall-v1*
+data*
+results*
